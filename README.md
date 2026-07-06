@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Sarfaraz Ansari 👋
 
-<!--
-**sarfarazansari/sarfarazansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer (Frontend) with 15+ years of experience building scalable web applications and modern digital products.
 
-Here are some ideas to get you started:
+I specialize in designing clean frontend architectures, building production-ready applications, and solving real business problems using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+
+* React
+* Next.js
+* Angular
+* TypeScript
+* Tailwind CSS
+* React Query
+* ShadCN UI
+
+**Backend**
+
+* Node.js
+* NestJS
+* REST APIs
+
+**Database**
+
+* PostgreSQL
+* Supabase
+* MySQL
+
+## Currently Building
+
+🏏 Turf Management Platform
+
+A production-grade booking and business management platform featuring:
+
+* Conflict-free booking engine
+* Role-based access control
+* Analytics dashboards
+* Revenue reporting
+* PostgreSQL RPCs
+* Modern React architecture
+
+## What I Enjoy
+
+* Frontend Architecture
+* Product Engineering
+* Performance Optimization
+* Developer Experience
+* Clean Code
+* Mentoring Engineers
+
+## Let's Connect
+
+* LinkedIn: https://linkedin.com/in/ansarisarfaraz
+* Portfolio: (Coming Soon)
+* Email: [sarfarazdesigner@gmail.com](mailto:sarfarazdesigner@gmail.com)
